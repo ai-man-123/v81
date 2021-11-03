@@ -16,19 +16,19 @@
 ## Install via Git
 
 ```bash
-> git clone https://github.com/XrutzMalesin/XrutzB0t
-> cd XrutzB0t
+> git clone https://github.com/XrutzMalesin/BotXrutz7
+> cd BotXrutz7
 > npm start
 ```
 
-## Install Termux :
+## Install via Zip :
 
 ```bash
 > apt upgrade && apt update
 > pkg install bash
 > pkg install git
 > cd /sdcard
-> cd XrutzB0t-master
+> cd BotXrutz7-master
 > npm start
 ```
 
