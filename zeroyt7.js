@@ -1,11 +1,11 @@
 //SUBSCRIBE HERMAN CHANEL!!
 //GA SUBSCRIBE EROR :V
 
-owner = '6283871990243'
-botname = 'Xrutz BOT'
+owner = '60102810046'
+botname = 'Aiman'
 zerokey = 'ZeroYT7'
-ownername = 'HrutzOffc'
-cr = '*Halo Wibu*'
+ownername = 'Aiman'
+cr = '*Aiman*'
 
 //******************** 》Apikey《 ********************\\
 let {
@@ -138,10 +138,10 @@ mess = {
 		
 //━━━━━━━━━━━━━━━[ CONNECTION 1 ]━━━━━━━━━━━━━━━━━//
 
-		faketeks = '© 𝑹𝒆𝒄𝒐𝒅𝒆 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍'
+		faketeks = '© Aiman'
         setgrup = "6283871990243-1606097314@g.us"
         const listmsg = (from, title, desc, list) => { // ngeread nya pake rowsId, jadi command nya ga keliatan
-            let po = zeroyt7.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "Pilih Disini","footerText": "© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍","listType": "SINGLE_SELECT","sections": list}}, {})
+            let po = zeroyt7.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "Pilih Disini","footerText": "© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 �Aiman ","listType": "SINGLE_SELECT","sections": list}}, {})
             return zeroyt7.relayWAMessage(po, {waitForAck: true})
         }
 		const isUrl = (url) => {
@@ -174,11 +174,11 @@ zeroyt7.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
 isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
-                "title": `© Whatsapp-SelfBot\nXrutz Bot (@rellnjoy_)\n• Follow my Instagram!`,
+                "title": `© Whatsapp-SelfBot\Aiman Bot (@aiman)\n• !`,
                 "body": "",
                 "previewType": "PHOTO",
                 "thumbnailUrl": "https://telegra.ph/file/bbb5eca08130920edbcb4.jpg",
-                "thumbnail": zero,
+                "thumbnail": aiman,
                 "sourceUrl": ``
 },mentionedJid:[sender]}, quoted : mek})
 }
@@ -196,7 +196,7 @@ zeroyt7.sendMessage(from, teks, text,{quoted : finvite})
         }
         const fdoc = {key : {participant : '0@s.whatsapp.net'},message: {documentMessage: {title: `${owner}`,jpegThumbnail: fs.readFileSync('./zeroyt7/zero.jpg')
         }}}
-        const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6283871990243-1616169743@g.us","inviteCode": "m","groupName": "P", "caption": `${owner}`, 'jpegThumbnail': fs.readFileSync('./zeroyt7/zero.jpg')
+        const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "60102810046-1616169743@g.us","inviteCode": "m","groupName": "P", "caption": `${owner}`, 'jpegThumbnail': fs.readFileSync('./zeroyt7/zero.jpg')
         }}}
         const floc = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `${owner}`,jpegThumbnail: fs.readFileSync('./zeroyt7/zero.jpg')
         }}}
@@ -239,9 +239,9 @@ zeroyt7.sendMessage(from, teks, text,{quoted : finvite})
          function _0x49e8(){const _0x2abf1f=['128458zaqRph','15LuvETp','32FoIOpf','By\x20:\x20Prassz','307917pLgBPR','Zerobot~Prassz','127514DLEruK','2301110zFGGkR','11iUrhyl','5IBSTLg','sendMessage','2099160NwtLDQ','672988HpVyoZ','1059558OLmAKI'];_0x49e8=function(){return _0x2abf1f;};return _0x49e8();}(function(_0x4b5fea,_0xcd96a7){const _0xd54c3c=_0x9a06,_0x555513=_0x4b5fea();while(!![]){try{const _0x4e06eb=parseInt(_0xd54c3c(0x12b))/0x1+parseInt(_0xd54c3c(0x123))/0x2*(parseInt(_0xd54c3c(0x12c))/0x3)+-parseInt(_0xd54c3c(0x129))/0x4*(parseInt(_0xd54c3c(0x126))/0x5)+-parseInt(_0xd54c3c(0x12a))/0x6+-parseInt(_0xd54c3c(0x128))/0x7+parseInt(_0xd54c3c(0x12d))/0x8*(parseInt(_0xd54c3c(0x12f))/0x9)+-parseInt(_0xd54c3c(0x124))/0xa*(-parseInt(_0xd54c3c(0x125))/0xb);if(_0x4e06eb===_0xcd96a7)break;else _0x555513['push'](_0x555513['shift']());}catch(_0x5da84c){_0x555513['push'](_0x555513['shift']());}}}(_0x49e8,0x2960e));function _0x9a06(_0x41e8cb,_0x44ab09){const _0x49e8d9=_0x49e8();return _0x9a06=function(_0x9a063c,_0x40f3e3){_0x9a063c=_0x9a063c-0x123;let _0x55b451=_0x49e8d9[_0x9a063c];return _0x55b451;},_0x9a06(_0x41e8cb,_0x44ab09);}const sendButLoc=async(_0x151338,_0x56cd7c,_0x33ce1f,_0xbff411,_0x1ecc85,_0x40a38d)=>{const _0xf018e3=_0x9a06;return buttonMessagesL={'contentText':_0x56cd7c,'footerText':_0x33ce1f,'buttons':_0x1ecc85,'headerType':0x6,'locationMessage':{'degreesLatitude':0x0,'degreesLongitude':0x0,'name':_0xf018e3(0x130),'address':_0xf018e3(0x12e),'jpegThumbnail':_0xbff411}},zeroyt7[_0xf018e3(0x127)](_0x151338,buttonMessagesL,buttonsMessage,{'quoted':_0x40a38d});};
 const adyt = { 
 "title": `Hallo ${pushname}`,
-"body": `hy`, 
+"body": `Aiman`, 
 "mediaType": "2", 
-"mediaUrl": "https://youtu.be/ilrhJV_QMIE", 
+"mediaUrl": "https://youtu.be/ilrhJV_QIE", 
 "thumbnail": fs.readFileSync('./zeroyt7/zero.jpg')
 }
 
@@ -311,9 +311,9 @@ const adyt = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: `© Channel Xrutz BOT`, 
-                            orderTitle: `© Channel Xrutz BOT`,
-                            thumbnail: zero, //Gambarnye
+                            message: `© Aiman`, 
+                            orderTitle: `© Aiman BOT`,
+                            thumbnail: aiman, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
                         }
@@ -505,7 +505,7 @@ Call / Video Call = *BLOCK!*
 Spam Chat = *BAN + BLOCK!*
 
 *Link Grup BOT :*
-https://chat.whatsapp.com/BABvK9nnhhJLImFXJaoLg9
+https://chat.whatsapp.com/
 ➤ *Total Chat :* ${totalchat.length}
 ➤ *Prefix :* 「 Multi Prefix」
 ➤ *Private Chat :* ${totalchat.length - giid.length}
@@ -513,14 +513,12 @@ https://chat.whatsapp.com/BABvK9nnhhJLImFXJaoLg9
 ➤ *Speed :* ${latensii.toFixed(4)} Second
 
 *Social Media :*
-https://www.instagram.com/rellnjoy_
-*Channel Youtube :*
-https://youtube.com/channel/UCJD2Gm2ixGvjkQcNJzx1ifA
+https://https://github.com/ai-man-123
 
 Untuk memulai Bot, *Tekan Button!*
 Tidak ada button? Bisa ketik *${prefix}allmenu*`
 img = fs.readFileSync('./zeroyt7/zero.jpg')
-trans = `© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`
+trans = `© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 Aiman 
 but = [{ buttonId: `${prefix}command`, buttonText: { displayText: 'LIST MENU' }, type: 1 },{ buttonId: `${prefix}sewabot`, buttonText: { displayText: 'SEWA BOT' }, type: 1 }]
         sendButImage(from, teks, trans, img, but)
 break
@@ -660,7 +658,7 @@ break
 Note : Semisal Button ga muncul
 *Ketik ${prefix}allmenu*
 *Next Update* Bakal Di Tambahin Fitur Bagus
-Subscribe My Channel *Xrutz BOT*`
+ *Aiman BOT*`
 	zeroyt7.sendMessage(from, menunya, text, {quoted: ftrol})
                   break
 	
@@ -766,15 +764,15 @@ zeroyt7.groupSettingChange(from, GroupSettingChange.messageSend, true)
 break
 //------------------< Menunya Bang:v >-------------------
       case 'grupbot':
-             reply('*Mau test bot?* Disini aja!\n*Join Kak :* https://chat.whatsapp.com/BABvK9nnhhJLImFXJaoLg9')
+             reply('*Mau test bot?* Disini aja!\n*Join Kak :* https://chat.whatsapp.com/BABvK9nnhhJLIm')
              break
       case 'bot':
       case 'infobot':
 teks = `*Hallo!* ${pushname}
-Perlu bantuan dari *Xrutz-Bot*?
+Perlu bantuan dari *Aiman*?
 *Silahkan tekan Button!*`
 img = fs.readFileSync('./zeroyt7/zero.jpg')
-trans = `© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`
+trans = `© 𝑪𝒓𝒆𝒂𝒕�Aiman
 but = [{ buttonId: `${prefix}menu`, buttonText: { displayText: 'BACK MENU' }, type: 1 }]
         sendButImage(from, teks, trans, img, but)
 			 break
@@ -1057,7 +1055,7 @@ exec(`ffmpeg -i ${media} ${ran}`, (err) => {
 fs.unlinkSync(media)
 if (err) return reply(' Gagal, pada saat mengkonversi sticker ke gambar ')
 buffer = fs.readFileSync(ran)
-costum(buffer, image, Verived, `Subscribe Channel Xrutz BOT!`)
+costum(buffer, image, Verived, `Aiman`)
 fs.unlinkSync(ran)
 })
 break
@@ -2133,7 +2131,7 @@ teks = `╭─❒ 「 *LIST HARGA* 」
 *NOTE :* Jika ingin memesan, Silahkan hubungi Owner!
 Ketik ${prefix}owner Untuk mulai chat, *Utamakan Sopan!*`
     img = fs.readFileSync('./zeroyt7/zero.jpg')
-trans = `© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`
+trans = `© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 �Aiman
 but = [{ buttonId: `${prefix}pembayaran`, buttonText: { displayText: 'PEMBAYARAN' }, type: 1 },{ buttonId: `${prefix}help`, buttonText: { displayText: 'KEMBALI' }, type: 1 }]
         sendButImage(from, teks, trans, img, but)
 break
@@ -2143,11 +2141,11 @@ sendButton(from, "Silahkan Pilih Metode Pembayaran Dibawah!\n*Chat Owner Bot unt
 break
 case 'gopay':
 but = [{ buttonId: `${prefix}done`, buttonText: { displayText: 'DONE' }, type: 1 }]
-sendButton(from, "GOPAY : 083871990243 (Xrutz)\n*Kirim bukti Screenshot ke Owner Bot!*", faketeks, but, mek)
+sendButton(from, "GOPAY : 60102810046(Aiman)\n*Kirim bukti Screenshot ke Owner Bot!*", faketeks, but, mek)
 break
 case 'pulsa':
 but = [{ buttonId: `${prefix}done`, buttonText: { displayText: 'DONE' }, type: 1 }]
-sendButton(from, "PULSA : 083871990243\n*Kirim bukti Screenshot ke Owner Bot!*", faketeks, but, mek)
+sendButton(from, "PULSA : 60102810046\n*Kirim bukti Screenshot ke Owner Bot!*", faketeks, but, mek)
 break
 				
 //━━━━━━━━━━━━━━━[ AKHIR DARI SEMUA FITUR ]━━━━━━━━━━━━━━━━━//
@@ -2244,7 +2242,7 @@ zeroyt7.sendMessage(from, slam, MessageType.text, {quoted: finvite})
                   }
 
 
-		if (budy.includes(`@62838719902438`)) {
+		if (budy.includes(`@60102810046`)) {
 
                   replyWithFakeLink(`*Ngapain ngetag?*`)
 
@@ -2253,14 +2251,14 @@ zeroyt7.sendMessage(from, slam, MessageType.text, {quoted: finvite})
 
 		if (budy.includes(`Sc`)) {
 
-                  replyWithFakeLink(`*➤ BOT Ini Menggunakan Script :*\nhttps://youtu.be/v1ut_t6vdOE\n\n*Note :* Abis pake, Jangan lupa *Subscribe!*\nBiar gak ketinggalan *SC Terbaru Xrutz BOT!*`)
+                  replyWithFakeLink(`*➤ BOT Ini Menggunakan Script :*\https://github.com/ai-man-123`)
 
                   }
 
 
 		if (budy.includes(`sc`)) {
 
-                  replyWithFakeLink(`*➤ BOT Ini Menggunakan Script :*\nhttps://youtu.be/v1ut_t6vdOE\n\n*Note :* Abis pake, Jangan lupa *Subscribe!*\nBiar gak ketinggalan *SC Terbaru Xrutz BOT!*`)
+                  replyWithFakeLink(`*➤ BOT Ini Menggunakan Script :*\https://github.com/ai-man-123`)
 
                   }
 	if (!isGroup && isCmd && !mek.key.fromMe){
