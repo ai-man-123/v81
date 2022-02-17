@@ -19,10 +19,7 @@ exports.tebakMenu = (prefix) => {
 `
 }
 exports.scriptMenu = (prefix) => {
-    return `*➤ BOT Ini Menggunakan Script :*
-https://youtu.be/v1ut_t6vdOE
-*Note :* Abis pake, Jangan lupa *Subscribe!*
-Biar gak ketinggalan *SC Terbaru Xrutz BOT!*`
+    return `*➤ BOT Ini Menggunakan Script : https://github.com/ai-man-123`
 }
 exports.infoMenu = (prefix) => {
     return `╭─❒ 「 *INFO MENU* 」
@@ -39,7 +36,7 @@ exports.infoMenu = (prefix) => {
 │ ⬡ ${prefix}grupbot
 │ ⬡ ${prefix}youtube
 │ ⬡ ${prefix}infoig
-└──── *[ Xrutz OfficiaL ]* ──────❏
+└──── *[ Aiman OfficiaL ]* ──────❏
 `
 }
 exports.stalkMenu = (prefix) => {
@@ -47,7 +44,7 @@ exports.stalkMenu = (prefix) => {
 │ ⬡ ${prefix}stalkig *nama*
 │ ⬡ ${prefix}stalkgithub *nama*
 │ ⬡ ${prefix}stalktiktok *nama*
-└──── *[ Xrutz OfficiaL ]* ──────❏
+└──── *[ Aiman OfficiaL ]* ──────❏
 `
 }
 exports.imageMenu = (prefix) => {
@@ -258,9 +255,7 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 │ ⬡ ${prefix}sewabot
 │ ⬡ ${prefix}bc *teks*
 │ ⬡ ${prefix}report
-└──── *[ Xrutz OfficiaL ]* ──────❏
+└──── *[ Aiman OfficiaL ]* ──────❏
 	
 Note : Semisal Button ga muncul
-*Ketik ${prefix}allmenu*
-*Next Update* Bakal Di Tambahin Fitur Bagus
-Subscribe My Channel *Xrutz BOT*`}
+(.allmenu) 
